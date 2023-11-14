@@ -20,16 +20,6 @@
 
         <!-- Sidebar -->
         <?php require_once "includes/sidebarIndex.php" ?>
-        <!-- End of Sidebar -->
-
-        <!-- Content Wrapper -->
-        <div id="content-wrapper" class="d-flex flex-column">
-
-            <!-- Main Content -->
-            <div id="content">
-
-                <!-- Topbar -->
-<?php require_once "includes/topbarIndex.php" ?>
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
